@@ -1,1 +1,2 @@
 # Rapido_Analysis
+This project involved a comprehensive analysis of Rapido booking data to identify patterns and derive actionable insights. The analysis covered various aspects such as trip frequencies, peak booking times, average trip distances, and customer behavior. We performed extensive data cleaning to ensure accuracy, identified key metrics, and visualized the data to uncover trends. The libraries utilized in this project include Pandas for data manipulation, Matplotlib for visualizations, and Scikit-learn for statistical analysis
